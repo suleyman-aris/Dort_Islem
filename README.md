@@ -1,3 +1,3 @@
 # Dort_Islem
-Simple
-Game Video Link : https://youtu.be/FTtypmM-NcQ
+Benim ilk Unity projem
+Oyun Video Link : https://youtu.be/FTtypmM-NcQ
